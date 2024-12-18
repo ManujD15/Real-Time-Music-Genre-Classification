@@ -60,13 +60,13 @@ pip install -r requirements.txt
 - `/data/`: Contains raw and preprocessed data.
 - `/models/`: Pretrained models (e.g., manuj_cnn.h5).
 - `/notebooks/`: Jupyter notebooks for training and evaluation.
-- `feature_extraction.ipynb`: Extracts features for ML models.
-- `train_svm_xgboost.ipynb`: Implements ML models.
-- `train_cnn.ipynb`: Trains the CNN.
-- `/src/`:
-- `realtime_classification.py`: GUI-based real-time classification.
-- `data_visualization.py`: Visualizes audio features.
-- `train_cnn2.py`: Trains the enhanced CNN 2.
+-- `feature_extraction.ipynb`: Extracts features for ML models.
+-- `train_svm_xgboost.ipynb`: Implements ML models.
+-- `train_cnn.ipynb`: Trains the CNN.
+- `/src/`: Python files
+-- `realtime_classification.py`: GUI-based real-time classification.
+-- `data_visualization.py`: Visualizes audio features.
+-- `train_cnn2.py`: Trains the enhanced CNN 2.
 
 ---
 
