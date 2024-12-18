@@ -57,13 +57,13 @@ pip install -r requirements.txt
 - The dataset contains 1,000 audio tracks across 10 genres: classical, blues, pop, disco, jazz, metal, reggae, country, rock, and hip-hop.
 
 ## Directory Structure
-1 `/data/`: Contains raw and preprocessed data.
-2 `/models/`: Pretrained models (e.g., manuj_cnn.h5).
-3 `/notebooks/`: Jupyter notebooks for training and evaluation.
+1. `/data/`: Contains raw and preprocessed data.
+2. `/models/`: Pretrained models (e.g., manuj_cnn.h5).
+3. `/notebooks/`: Jupyter notebooks for training and evaluation.
 - `feature_extraction.ipynb`: Extracts features for ML models.
 - `train_svm_xgboost.ipynb`: Implements ML models.
 - `train_cnn.ipynb`: Trains the CNN.
-4 `/src/`: Python files
+4. `/src/`: Python files
 - `realtime_classification.py`: GUI-based real-time classification.
 - `data_visualization.py`: Visualizes audio features.
 - `train_cnn2.py`: Trains the enhanced CNN 2.
