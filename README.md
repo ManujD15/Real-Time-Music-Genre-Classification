@@ -10,7 +10,6 @@ This project uses Machine Learning (ML) and Deep Learning (DL) techniques to cla
 - [Results](#results)
 - [Future Enhancements](#future-enhancements)
 - [Resources](#resources)
-- [License](#license)
 
 ---
 
