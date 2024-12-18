@@ -50,3 +50,9 @@ Ensure the following packages are installed:
 Install dependencies via `pip`:
 ```bash
 pip install -r requirements.txt
+
+----
+
+## Dataset
+Download the GTZAN Dataset from GTZAN.
+The dataset contains 1,000 audio tracks across 10 genres: classical, blues, pop, disco, jazz, metal, reggae, country, rock, and hip-hop.
