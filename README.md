@@ -1,2 +1,2 @@
 # Real-Time-Music-Genre-Classification-Using-Machine-Learning
-This repository hosts the code and methodology for **Real-Time Music Genre Classification**, a project conducted as part of a Master's thesis in Data Analytics. It employs Machine Learning (ML) and Deep Learning (DL) techniques to classify music genres using the **GTZAN Dataset**. A key feature is a **graphical user interface (GUI)** for real-time genre predictions.
+This project uses Machine Learning (ML) and Deep Learning (DL) techniques to classify music into multiple genres using the **GTZAN Dataset**. The key feature is a **graphical user interface (GUI)** for real-time genre predictions.
